@@ -5,18 +5,12 @@ Social Distancing Detector using Python, OpenCV and YOLO V3 model
 ### RESULT OF MODEL ON TESTING 
 ## 1. Video1 output
 
-
-https://user-images.githubusercontent.com/56020385/116824302-17ac7b80-aba7-11eb-82bc-f0bc554e8c98.mp4
-
-
+![output1 video gif](https://user-images.githubusercontent.com/56020385/116824466-0ca61b00-aba8-11eb-9366-3321ac21a6b9.gif)
 
 
 ## 2. Video2 Output
 
-
-
-https://user-images.githubusercontent.com/56020385/116824326-2e52d280-aba7-11eb-9ab3-952b91710b51.mp4
-
+![output2 video gif](https://user-images.githubusercontent.com/56020385/116824487-26476280-aba8-11eb-8e59-ce2e7c0c0c28.gif)
 
 
 ## Technology Used:
