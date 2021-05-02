@@ -2,6 +2,10 @@
 Social Distancing Detector using Python, OpenCV and YOLO V3 model.
 
 # Social Distancing Detector & Monitoring Project. (COVID-19_Tracker)
+In this, I am attaching my code for building a Social Distancing Detector to detect if a crowd is practicing Social Distancing or not, using a sample video.
+
+Social Distancing is one such terminology that has gained popularity over the past few months, thanks to COVID-19. People are forced to maintain a sufficient amount of distance between each other to prevent the spread of this deadly virus. Amidst this crisis, Me & My Project Team decided to build a simple Social Distancing Detector that could monitor the practice of social distancing in a crowd.
+
 ### RESULT OF MODEL ON TESTING:
 ## 1. Video1 Output:-
 
