@@ -1,7 +1,7 @@
 # Covid19-Social-distance-detection
 Social Distancing Detector using Python, OpenCV and YOLO V3 model
 
-# COVID-19_Tracker
+# Social Distancing Detector COVID-19_Tracker
 ### RESULT OF MODEL ON TESTING 
 ## 1. Video1 output
 
