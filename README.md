@@ -13,25 +13,23 @@ Social Distancing is one such terminology that has gained popularity over the pa
 ### RESULT OF MODEL ON TESTING:
 
 # 1. 
+
 ## Video1 Input:-
 
 ![VIDEO3](https://user-images.githubusercontent.com/56020385/118154372-97063e80-b434-11eb-82dc-6b6418ea503b.gif)
 
 
 ## Video1 Output:-
- 
 
 
 
+# 2. 
 
-
-
-
-## 3. Video2 Input:-
+## Video2 Input:-
 
 ![video2-input gif](https://user-images.githubusercontent.com/56086999/118153554-a89b1680-b433-11eb-9c2c-d8536c9ef730.gif)
 
-## 4. Video2 Output:-
+## Video2 Output:-
 
 
 ![ezgif com-video-to-gif(1)](https://user-images.githubusercontent.com/56020385/118155154-8a361a80-b435-11eb-9ea7-bf5dacbad1b1.gif)
