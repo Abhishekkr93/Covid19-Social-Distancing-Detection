@@ -1,19 +1,30 @@
 # Covid19-Social-Distancing-Detection
  This is a Social Distancing Detector project.
- 
-# Programming languange & Algorithm used
-- Python
-- YOLO V3 model
 
-# Social Distancing Detector & Monitoring Project. (COVID-19_Tracker)
+# Social Distancing Detector and Monitoring Project/ COVID-19_Tracker.
 In this project, I am attaching the code for building a Social Distancing Detector to detect if a crowd is practicing Social Distancing or not, using a sample video.
 
 Social Distancing is one such terminology that has gained popularity over the past few months, thanks to COVID-19. People are forced to maintain a sufficient amount of distance between each other to prevent the spread of this deadly virus. Amidst this crisis, Me & My Project Team decided to build a simple Social Distancing Detector that could monitor the practice of social distancing in a crowd.
 
+# Programming languange & Algorithm used:
+- [Python](https://www.python.org/)
+- [YOLOv3 model](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
+
+## Technology Used:
+#### [OpenCV](https://opencv.org/) (for frame/image processing)
+#### [DeepLearning](https://machinelearningmastery.com/what-is-deep-learning/) (Used YOLO V3 Pretrained model for object Detection-(used filter for people indentification only))
+#### [Centroid Tracking Algo](https://en.wikipedia.org/wiki/Track_algorithm) (For object  tracking)
+
+## Dependencies:
+- imutils==0.5.3
+- numpy==1.18.5
+- opencv-python==4.2.0.34
+- pkg-resources==0.0.0
+- scipy==1.4.1
+
 ## RESULT OF MODEL ON TESTING:
 
 # 1. 
-
 
 ### Video1 Input:-
 
@@ -25,7 +36,6 @@ Social Distancing is one such terminology that has gained popularity over the pa
 
 # 2. 
 
-
 ### Video2 Input:-
 
 ![two output gif](https://user-images.githubusercontent.com/56020385/118197367-6a6e1900-b46c-11eb-917c-203be17b8d9e.gif)
@@ -35,11 +45,9 @@ Social Distancing is one such terminology that has gained popularity over the pa
 ![ezgif com-video-to-gif(1)](https://user-images.githubusercontent.com/56020385/118197688-0bf56a80-b46d-11eb-8ab1-33b052266767.gif)
 
 
-## Technology Used:
-#### OpenCV (for frame/image processing)
-#### DeepLearning (Used YOLO V3 Pretrained model for object Detection-(used filter for people indentification only))
-#### Centroid Tracking Algo (For object  tracking)
-
 ### This is Computer Vision And Image Processing project which can be used for monitoring social distancing in Lockdown & to fight against COVID-19 a.k.a. the Corona Virus.
 ## Fell free to contribute to this project, your contribution will be appreciated.
-## Thank You!
+
+<br/>
+
+# Thank You!
