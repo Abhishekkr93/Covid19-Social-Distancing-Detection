@@ -22,5 +22,6 @@ Social Distancing is one such terminology that has gained popularity over the pa
 #### DeepLearning (Used YOLO V3 Pretrained model for object Detection-(used filter for people indentification only))
 #### Centroid Tracking Algo (For object  tracking)
 
-## This is important Computer Vision And Image Processing project which can be used for monitoring social distancing in Lockdown & to fight against COVID-19 a.k.a. the Corona Virus.
-
+### This is important Computer Vision And Image Processing project which can be used for monitoring social distancing in Lockdown & to fight against COVID-19 a.k.a. the Corona Virus.
+## Fell free to contribute to this project , your contribution will be appreciated.
+## Thank-you.
