@@ -3,7 +3,6 @@
  
 # Programming languange & Algorithm used
 - Python
-- OpenCV 
 - YOLO V3 model
 
 # Social Distancing Detector & Monitoring Project. (COVID-19_Tracker)
@@ -12,16 +11,24 @@ In this project, I am attaching the code for building a Social Distancing Detect
 Social Distancing is one such terminology that has gained popularity over the past few months, thanks to COVID-19. People are forced to maintain a sufficient amount of distance between each other to prevent the spread of this deadly virus. Amidst this crisis, Me & My Project Team decided to build a simple Social Distancing Detector that could monitor the practice of social distancing in a crowd.
 
 ### RESULT OF MODEL ON TESTING:
-# 1. 
 
-## Video1 Output:-
+## 1. Video1 Input:-
+
+![video1-input gif](https://user-images.githubusercontent.com/56086999/118152038-e434e100-b431-11eb-8925-42c51e6c8857.jpeg)
+
+
+## 2. Video1 Output:-
 
 ![output1 video gif](https://user-images.githubusercontent.com/56020385/116824466-0ca61b00-aba8-11eb-9366-3321ac21a6b9.gif)
 
+## 3. Video2 Input:-
 
-# 2. 
 
-## Video2 Output:-
+
+
+
+
+## 4. Video2 Output:-
 
 ![output2 video gif](https://user-images.githubusercontent.com/56020385/116824487-26476280-aba8-11eb-8e59-ce2e7c0c0c28.gif)
 
