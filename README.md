@@ -21,11 +21,9 @@ Social Distancing is one such terminology that has gained popularity over the pa
 
 ![output1 video gif](https://user-images.githubusercontent.com/56020385/116824466-0ca61b00-aba8-11eb-9366-3321ac21a6b9.gif)
 
+
 ## 3. Video2 Input:-
-
-
-
-
+![video2-input gif](https://user-images.githubusercontent.com/56086999/118152231-17777000-b432-11eb-9df6-1a125d32a542.mp4)
 
 
 ## 4. Video2 Output:-
