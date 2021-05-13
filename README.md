@@ -6,14 +6,14 @@ In this project, I am attaching the code for building a Social Distancing Detect
 
 Social Distancing is one such terminology that has gained popularity over the past few months, thanks to COVID-19. People are forced to maintain a sufficient amount of distance between each other to prevent the spread of this deadly virus. Amidst this crisis, Me & My Project Team decided to build a simple Social Distancing Detector that could monitor the practice of social distancing in a crowd.
 
-# Programming languange & Algorithm used:
+## Programming languange & Algorithm used:
 - [Python](https://www.python.org/)
 - [YOLOv3 model](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
 
 ## Technology Used:
-#### [OpenCV](https://opencv.org/) (for frame/image processing)
-#### [DeepLearning](https://machinelearningmastery.com/what-is-deep-learning/) (Used YOLO V3 Pretrained model for object Detection-(used filter for people indentification only))
-#### [Centroid Tracking Algo](https://en.wikipedia.org/wiki/Track_algorithm) (For object  tracking)
+- [OpenCV](https://opencv.org/) (for frame/image processing)
+- [DeepLearning](https://machinelearningmastery.com/what-is-deep-learning/) (Used YOLO V3 Pretrained model for object Detection-(used filter for people indentification only))
+- [Centroid Tracking Algo](https://en.wikipedia.org/wiki/Track_algorithm) (For object  tracking)
 
 ## Dependencies:
 - imutils==0.5.3
