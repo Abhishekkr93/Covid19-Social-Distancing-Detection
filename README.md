@@ -1,3 +1,4 @@
+![VIDEO3](https://user-images.githubusercontent.com/56020385/118154188-632b1900-b434-11eb-9976-e53e8ab6b82e.gif)
 # Covid19-Social-Distancing-Detection
  This is a Social Distancing Detector project.
  
@@ -15,18 +16,18 @@ Social Distancing is one such terminology that has gained popularity over the pa
 ## 1. Video1 Input:-
 
 
-![video1-input gif](https://user-images.githubusercontent.com/56086999/118153766-e26c1d00-b433-11eb-842f-6438a8e7027a.gif)
+![Video1-Input gif](https://user-images.githubusercontent.com/56086999/118153766-e26c1d00-b433-11eb-842f-6438a8e7027a.gif)
 
 
 
 ## 2. Video1 Output:-
  
-![video1-output gif](https://user-images.githubusercontent.com/56086999/118152993-02e7a780-b433-11eb-9574-e495c614a79e.mp4)
+![video1-output gif](https://user-images.githubusercontent.com/56086999/118152993-02e7a780-b433-11eb-9574-e495c614a79e.gif)
 
 
 ## 3. Video2 Input:-
 
-![video2-input gif](https://user-images.githubusercontent.com/56086999/118153554-a89b1680-b433-11eb-9c2c-d8536c9ef730.mp4)
+![video2-input gif](https://user-images.githubusercontent.com/56086999/118153554-a89b1680-b433-11eb-9c2c-d8536c9ef730.gif)
 
 ## 4. Video2 Output:-
 
