@@ -18,8 +18,8 @@ Social Distancing is one such terminology that has gained popularity over the pa
 
 
 ## 2. Video1 Output:-
-
-![output1 video gif](https://user-images.githubusercontent.com/56020385/116824466-0ca61b00-aba8-11eb-9366-3321ac21a6b9.gif)
+ 
+![video1-output gif](https://user-images.githubusercontent.com/56086999/118152993-02e7a780-b433-11eb-9574-e495c614a79e.mp4)
 
 
 ## 3. Video2 Input:-
