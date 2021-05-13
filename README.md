@@ -1,4 +1,3 @@
-![VIDEO3](https://user-images.githubusercontent.com/56020385/118154188-632b1900-b434-11eb-9976-e53e8ab6b82e.gif)
 # Covid19-Social-Distancing-Detection
  This is a Social Distancing Detector project.
  
