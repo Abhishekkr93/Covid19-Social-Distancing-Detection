@@ -12,7 +12,7 @@ Social Distancing is one such terminology that has gained popularity over the pa
 
 ## Technology Used:
 - [OpenCV](https://opencv.org/) (for frame/image processing)
-- [DeepLearning](https://machinelearningmastery.com/what-is-deep-learning/) (Used YOLO V3 Pretrained model for object Detection-(used filter for people indentification only))
+- [Deep Learning](https://machinelearningmastery.com/what-is-deep-learning/) (Used YOLO V3 Pretrained model for object Detection-(used filter for people indentification only))
 - [Centroid Tracking Algo](https://en.wikipedia.org/wiki/Track_algorithm) (For object  tracking)
 
 ## Dependencies:
