@@ -25,8 +25,8 @@ Social Distancing is one such terminology that has gained popularity over the pa
 ## How to run?
 ### [Google Colab Notebook](https://colab.research.google.com/drive/1R4maYW9mIB1WcKtrvqNdVybC4OacyAMI?usp=sharing)
 
--PLEASE DOWNLOAD THE YOLOv3 MODEL FROM BELOW LINK AND KEEP ALL THE DOWNLOADED FILES INSIDE THE SAME FOLDER.
-  - [Download YOLOv3 Model](https://drive.google.com/drive/folders/1s5yXMDwjcUsfX5VxuFFAZrPIjkbiQ7h6)
+- PLEASE DOWNLOAD THE YOLOv3 MODEL FROM BELOW LINK AND KEEP ALL THE DOWNLOADED FILES INSIDE THE SAME FOLDER.
+   - [Download YOLOv3 Model](https://drive.google.com/drive/folders/1s5yXMDwjcUsfX5VxuFFAZrPIjkbiQ7h6)
   
 - clone the repository to your local machine
 - navigate to this cloned directory
