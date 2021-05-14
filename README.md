@@ -42,7 +42,7 @@ Social Distancing is one such terminology that has gained popularity over the pa
     `python social_distance_detector.py --input VIDEO2.mp4 --output OUTPUT2.mp4` for second Video <br/>
     and so on.
 
-## RESULTS OF MODEL ON TESTING:
+## RESULTS OF MODEL VIDEO ON TESTING:
 
 # 1. 
 
