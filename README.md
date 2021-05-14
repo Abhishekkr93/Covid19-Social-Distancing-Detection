@@ -46,7 +46,7 @@ Social Distancing is one such terminology that has gained popularity over the pa
 
 
 ### This is Computer Vision And Image Processing project which can be used for monitoring social distancing in Lockdown & to fight against COVID-19 a.k.a. the Corona Virus.
-## Fell free to contribute to this project, your contribution will be appreciated.
+## Fell free to contribute to this project by providing more sample videos, your contribution will be appreciated.
 
 <br/>
 
