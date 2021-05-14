@@ -28,16 +28,16 @@ Social Distancing is one such terminology that has gained popularity over the pa
 - clone the repository to your local machine
 - navigate to this cloned directory
 - from the terminal install dependencies using these commands:
-- python -m pip install opencv-python
-- from scipy.spatial import distance as dist
-- import numpy as np
-- import argparse
-- import imutils
-- import os
+ - python -m pip install opencv-python
+ - from scipy.spatial import distance as dist
+ - import numpy as np
+ - import argparse
+ - import imutils
+ - import os
 - after installing the dependencies run the <span>social_distancing_config.cpython</span> file from terminal using this command:
-- python <span>social_distancing_config.cpython</span>
+ - python <span>social_distancing_config.cpython</span>
 - To analyze the different sample videos & Execute, Follow This:
-- example: <br/>
+ - example: <br/>
     `python social_distance_detector.py --input VIDEO1.mp4 --output OUTPUT1.mp4` for first Video <br/>
     `python social_distance_detector.py --input VIDEO2.mp4 --output OUTPUT2.mp4` for second Video <br/>
     and so on..
