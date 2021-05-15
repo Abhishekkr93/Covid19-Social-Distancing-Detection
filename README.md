@@ -4,7 +4,7 @@
 # Social Distancing Detector and Monitoring Project, COVID-19 Tracker
 This project uses Deep Learning based YOLOv3 Pretrained model for object Detection, OpenCV python library for image processing and Centroid Tracking Algorithm For object  tracking. In this project, I am attaching the code for building a Social Distancing Detector to detect if a crowd is practicing Social Distancing or not, using a sample video.
 
-Social Distancing is one such terminology that has gained popularity over the past few months, thanks to COVID-19. People are forced to maintain a sufficient amount of distance between each other to prevent the spread of this deadly virus. Amidst this crisis, Me & My Project Team decided to build a simple Social Distancing Detector that could monitor the practice of social distancing in a crowd.
+Social Distancing is one such terminology that has gained popularity over the past few months, thanks to COVID-19. People are forced to maintain a sufficient amount of distance between each other to prevent the spread of this deadly virus. Amidst this crisis, I and My Project Team decided to build a simple Social Distancing Detector that could monitor the practice of social distancing in a crowd.
 
 ## Programming languange & Algorithm used:
 - [Python](https://www.python.org/)
